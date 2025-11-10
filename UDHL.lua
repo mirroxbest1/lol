@@ -924,5 +924,5 @@ for i, v in next, Players:GetPlayers() do
     end
 end
 
-
+-- Initialize ESP
 updateESP()
